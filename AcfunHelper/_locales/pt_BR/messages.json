@@ -1,0 +1,53 @@
+{
+   "extDesc": {
+      "description": "descrição da extensão.",
+      "message": "Framework web Sniffer e bibliotecas javascript que são executadas no site de navegação."
+   },
+   "extIntroTitle": {
+      "description": "opção de página para o título de introdução.",
+      "message": "Introdução"
+   },
+   "extIntroduction": {
+      "description": "opção para a página de introdução.",
+      "message": "Chrome Sniffer: Você pode sniffar"
+   },
+   "extIntroductionDeveloper": {
+      "message": "Se você é um desenvolvedor, você pode"
+   },
+   "extIntroductionIssues": {
+      "message": "Criar Issues"
+   },
+   "extIntroductionJavascript": {
+      "message": "Bibliotecas e Frameworks Javascript: jQuery, ExtJS, Angular ..."
+   },
+   "extIntroductionNotice": {
+      "message": "Desenvolvedores sempre gostam de se esconder por tráz de bugs, portanto, pode haver um erro prejudicial."
+   },
+   "extIntroductionSource": {
+      "message": "Código Fonte:"
+   },
+   "extIntroductionThanks": {
+      "message": "Obrigado"
+   },
+   "extIntroductionWebAPI": {
+      "message": "Web APIs: Blogger, Google Analytics ..."
+   },
+   "extIntroductionWebFramework": {
+      "message": "Web Framework: WordPress, phpBB, Drupal, MediaWiki, codeigniter ..."
+   },
+   "extIntroductionWebSever": {
+      "message": "Web Server: PHP, Apache, nginx, IIS ..."
+   },
+   "extName": {
+      "description": "nome da extensão.",
+      "message": "Chrome Sniffer Plus"
+   },
+   "extShortName": {
+      "description": "nome curto da extensão.",
+      "message": "ChromeSnifferPlus"
+   },
+   "pageActionTitle": {
+      "description": "título da página acessada.",
+      "message": "Clique para ver detalhes..."
+   }
+}

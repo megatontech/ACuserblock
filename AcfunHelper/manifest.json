@@ -1,0 +1,30 @@
+{
+   "background": {
+      "page": "background.html"
+   },
+   "content_scripts": [ {
+      "js": [ "js/main.js" ],
+      "matches": [ "http://*/*", "https://*/*" ]
+   } ],
+   "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
+   "default_locale": "en",
+   "description": "ACHelper",
+   "icons": {
+      "128": "icon128.png",
+      "48": "icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAl5PPgpRFRAWCvFNKkALFewKd0YuKTDI+whdy7RwvW5DTjwanZsdwW1ggunawjnD/dGxJjDE3ooW4IXwONotXtrbbLyP5ZhD+NN1e11rej2r4tPlBINY3IhrGlnO9Snq94hAfjgutGG/CVw5Ly+e5uZ1O0yO5n3Y1HcgwOQdLmJK0YuA8JputpF8JTOJjnotGMH77pRldku3EAMdK6I66oWczKPSJ/5b7agobkP1Xhx5GinaN3ufhnI9oJyRVrlKqapE5IAgQMlmoA9wfogQToKF4RIWmtO2B8wvfxdNaa8Xf1MlU3dPKYZ42oTJFGQ7jN6NmxR4Oxn4eoIMygM3FfwIDAQAB",
+   "manifest_version": 2,
+   "name": "ACHelper",
+   "options_page": "option.html",
+   "page_action": {
+      "default_icon": "icon.png",
+      "default_popup": "popup.html",
+      "default_title": "ACHelper"
+   },
+   "permissions": [ "tabs", "webRequest", "http://*/*", "https://*/*" ],
+   "short_name": "ACHelper",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.1",
+   "web_accessible_resources": [ "js/detector.js" ]
+}

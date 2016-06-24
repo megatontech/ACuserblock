@@ -1,0 +1,53 @@
+{
+   "extDesc": {
+      "description": "extension description.",
+      "message": "探测当前网页正在使用的开源软件或者js类库，web开发者必备神器。"
+   },
+   "extIntroTitle": {
+      "description": "option page introduction title.",
+      "message": "简介"
+   },
+   "extIntroduction": {
+      "description": "option page introduction.",
+      "message": "Chrome Sniffer： Chrome 探测器，通过本插件，您可以探测："
+   },
+   "extIntroductionDeveloper": {
+      "message": "如果你开发了类库或者框架，可以"
+   },
+   "extIntroductionIssues": {
+      "message": "创建Issues"
+   },
+   "extIntroductionJavascript": {
+      "message": "javascript 库： jQuery、ExtJS、Angular 等。"
+   },
+   "extIntroductionNotice": {
+      "message": "开发者总是喜欢尽量隐藏某些东东，所以可能存在误判。"
+   },
+   "extIntroductionSource": {
+      "message": "源码地址"
+   },
+   "extIntroductionThanks": {
+      "message": "谢谢"
+   },
+   "extIntroductionWebAPI": {
+      "message": "常用的 web 服务： 百度统计、cnzz、Google Analytics 等。"
+   },
+   "extIntroductionWebFramework": {
+      "message": "Web 框架： WordPress、phpBB、Drupal、MediaWiki 等。"
+   },
+   "extIntroductionWebSever": {
+      "message": "服务器环境： PHP、Apache、nginx 等。"
+   },
+   "extName": {
+      "description": "extension name.",
+      "message": "Chrome Sniffer Plus"
+   },
+   "extShortName": {
+      "description": "extension short name.",
+      "message": "ChromeSnifferPlus"
+   },
+   "pageActionTitle": {
+      "description": "page action title.",
+      "message": "点击查看详细信息..."
+   }
+}
